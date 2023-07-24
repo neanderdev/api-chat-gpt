@@ -1,0 +1,23 @@
+{
+  "name": "api-chat-gpt",
+  "version": "1.0.0",
+  "description": "Construindo a API do seu próprio ChatGPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neanderdev/api-chat-gpt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neanderdev/api-chat-gpt/issues"
+  },
+  "homepage": "https://github.com/neanderdev/api-chat-gpt#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
